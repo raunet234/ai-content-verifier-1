@@ -1,0 +1,10 @@
+# Ignore dependencies & build files
+node_modules/
+.next/
+.vercel/
+dist/
+
+# Ignore environment files
+.env
+.DS_Store  # (macOS system files)
+.env.local
